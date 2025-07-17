@@ -1,0 +1,9 @@
+node_modules
+key.json
+test.jpeg
+.env
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
